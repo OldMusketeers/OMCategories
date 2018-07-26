@@ -1,6 +1,5 @@
 # OMCategories
 
-[![CI Status](https://img.shields.io/travis/Chengwen001/OMCategories.svg?style=flat)](https://travis-ci.org/Chengwen001/OMCategories)
 [![Version](https://img.shields.io/cocoapods/v/OMCategories.svg?style=flat)](https://cocoapods.org/pods/OMCategories)
 [![License](https://img.shields.io/cocoapods/l/OMCategories.svg?style=flat)](https://cocoapods.org/pods/OMCategories)
 [![Platform](https://img.shields.io/cocoapods/p/OMCategories.svg?style=flat)](https://cocoapods.org/pods/OMCategories)
@@ -22,7 +21,7 @@ pod 'OMCategories'
 
 ## Author
 
-Chengwen001, chengwen.yuan@yolu-inc.com
+ChengwenY, https://github.com/ChengwenY
 
 ## License
 
