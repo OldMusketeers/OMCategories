@@ -29,17 +29,5 @@ Pod::Spec.new do |s|
 
   s.public_header_files = 'OMCategories/**/*.{h,hh}'
   s.library = 'c++', 'z'
-  s.frameworks = 'UIKit', 'QuartzCore'
-  
-  s.subspec 'UIKit' do |sp|
-      sp.source_files = 'OMCategories/UIKit'
-  end
-  
-  s.subspec 'Foundation' do |sp|
-      sp.source_files = 'OMCategories/Foundation'
-  end
-  
-  s.subspec 'Quartz' do |sp|
-      sp.source_files = 'OMCategories/Quartz'
-  end
+  s.frameworks = 'UIKit', 'QuartzCore', 'CoreText'
 end
