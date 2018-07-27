@@ -1,5 +1,5 @@
 use_frameworks!
-target 'OMCategories_Tests' do
+target 'OMCategoriesExample' do
   pod 'OMCategories', :path => '../'
   
   

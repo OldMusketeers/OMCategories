@@ -1,11 +1,5 @@
 PODS:
-  - OMCategories (0.1.0):
-    - OMCategories/Foundation (= 0.1.0)
-    - OMCategories/Quartz (= 0.1.0)
-    - OMCategories/UIKit (= 0.1.0)
-  - OMCategories/Foundation (0.1.0)
-  - OMCategories/Quartz (0.1.0)
-  - OMCategories/UIKit (0.1.0)
+  - OMCategories (0.1.0)
 
 DEPENDENCIES:
   - OMCategories (from `../`)
@@ -15,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  OMCategories: b48903356e10fac155a7f8bb61cde54a7bc4da54
+  OMCategories: 440f1b485d5fbdb258834b8b19c02c7271b24b65
 
-PODFILE CHECKSUM: 22c69b0659ea6e5c18bc43478fd9b0e78fa1282c
+PODFILE CHECKSUM: 5675637727accebd77f2f914e117cf08648888b7
 
 COCOAPODS: 1.5.2
