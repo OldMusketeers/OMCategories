@@ -3,13 +3,11 @@
 [![Version](https://img.shields.io/cocoapods/v/OMCategories.svg?style=flat)](https://cocoapods.org/pods/OMCategories)
 [![License](https://img.shields.io/cocoapods/l/OMCategories.svg?style=flat)](https://cocoapods.org/pods/OMCategories)
 [![Platform](https://img.shields.io/cocoapods/p/OMCategories.svg?style=flat)](https://cocoapods.org/pods/OMCategories)
+[![Support](https://img.shields.io/badge/support-iOS%208%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
-
+This Library requires `iOS 8.0+` 
 ## Installation
 
 OMCategories is available through [CocoaPods](https://cocoapods.org). To install
@@ -21,7 +19,9 @@ pod 'OMCategories'
 
 ## Author
 
+JetZou,https://github.com/JetZou
 ChengwenY, https://github.com/ChengwenY
+
 
 ## License
 
